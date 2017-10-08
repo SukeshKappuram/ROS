@@ -351,6 +351,3 @@ D:\Dump\rosS\ROS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\Dump\rosS\ROS\obj\Debug\ROS.csprojResolveAssemblyReference.cache
 D:\Dump\rosS\ROS\obj\Debug\ROS.dll
 D:\Dump\rosS\ROS\obj\Debug\ROS.pdb
-D:\Dump\rosS\ROS\obj\Debug\ROS.Migrations.InitialCreate.resources
-D:\Dump\rosS\ROS\obj\Debug\ROS.csproj.GenerateResource.Cache
-D:\Dump\rosS\ROS\obj\Debug\ROS.Migrations.AddTable.resources

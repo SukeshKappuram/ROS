@@ -174,14 +174,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201707121225522_InitialCreate.cs" />
-    <Compile Include="Migrations\201707121225522_InitialCreate.Designer.cs">
-      <DependentUpon>201707121225522_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201709221724124_AddTable.cs" />
-    <Compile Include="Migrations\201709221724124_AddTable.Designer.cs">
-      <DependentUpon>201709221724124_AddTable.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Cart.cs" />
@@ -316,14 +308,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201707121225522_InitialCreate.resx">
-      <DependentUpon>201707121225522_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201709221724124_AddTable.resx">
-      <DependentUpon>201709221724124_AddTable.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

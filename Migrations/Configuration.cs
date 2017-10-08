@@ -9,8 +9,7 @@ namespace ROS.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
-            ContextKey = "ROS.Models.ApplicationDbContext";
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(ROS.Models.ApplicationDbContext context)
